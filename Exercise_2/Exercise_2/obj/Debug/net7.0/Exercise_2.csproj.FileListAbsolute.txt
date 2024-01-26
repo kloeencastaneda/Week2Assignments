@@ -1,0 +1,15 @@
+/Users/kloeecastaneda/Desktop/Exercise_2/Exercise_2/bin/Debug/net7.0/Exercise_2
+/Users/kloeecastaneda/Desktop/Exercise_2/Exercise_2/bin/Debug/net7.0/Exercise_2.deps.json
+/Users/kloeecastaneda/Desktop/Exercise_2/Exercise_2/bin/Debug/net7.0/Exercise_2.runtimeconfig.json
+/Users/kloeecastaneda/Desktop/Exercise_2/Exercise_2/bin/Debug/net7.0/Exercise_2.dll
+/Users/kloeecastaneda/Desktop/Exercise_2/Exercise_2/bin/Debug/net7.0/Exercise_2.pdb
+/Users/kloeecastaneda/Desktop/Exercise_2/Exercise_2/obj/Debug/net7.0/Exercise_2.csproj.AssemblyReference.cache
+/Users/kloeecastaneda/Desktop/Exercise_2/Exercise_2/obj/Debug/net7.0/Exercise_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kloeecastaneda/Desktop/Exercise_2/Exercise_2/obj/Debug/net7.0/Exercise_2.AssemblyInfoInputs.cache
+/Users/kloeecastaneda/Desktop/Exercise_2/Exercise_2/obj/Debug/net7.0/Exercise_2.AssemblyInfo.cs
+/Users/kloeecastaneda/Desktop/Exercise_2/Exercise_2/obj/Debug/net7.0/Exercise_2.csproj.CoreCompileInputs.cache
+/Users/kloeecastaneda/Desktop/Exercise_2/Exercise_2/obj/Debug/net7.0/Exercise_2.dll
+/Users/kloeecastaneda/Desktop/Exercise_2/Exercise_2/obj/Debug/net7.0/refint/Exercise_2.dll
+/Users/kloeecastaneda/Desktop/Exercise_2/Exercise_2/obj/Debug/net7.0/Exercise_2.pdb
+/Users/kloeecastaneda/Desktop/Exercise_2/Exercise_2/obj/Debug/net7.0/Exercise_2.genruntimeconfig.cache
+/Users/kloeecastaneda/Desktop/Exercise_2/Exercise_2/obj/Debug/net7.0/ref/Exercise_2.dll
